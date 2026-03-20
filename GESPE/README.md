@@ -1,6 +1,11 @@
-# 🍽️ GESPE — Pensión El Refugio de la Brisa
+# 🍽️ GESPE 
 ### Backend Python + FastAPI | Frontend HTML/CSS/JS | Base de datos **SQLite**
 
+
+# DESARROLLADORES: 
+# Huayta Fuertes Dylan Isaac  Ing en TIS/Ing CICO
+# Mamani Isla Limbert         Ing en TIS
+# Quispe Sullca Luis Fernando Ing en CICO
 ---
 
 ## 📁 Estructura del proyecto
@@ -44,7 +49,6 @@ GESPE/
 - **Python 3.10+** → https://python.org (marcar ✅ "Add to PATH" al instalar)
 - **Visual Studio Code** (recomendado) → https://code.visualstudio.com
 
-> ⚠️ **NO necesitas PostgreSQL ni Railway.** Este proyecto usa **SQLite** — la base de datos se crea automáticamente como un archivo local.
 
 ---
 
@@ -151,4 +155,4 @@ Podés **hacer copias de seguridad** simplemente copiando ese archivo.
 
 ---
 
-*GESPE v1.0 — Pensión El Refugio de la Brisa © 2026*
+*GESPE v1.0 — 2026*
