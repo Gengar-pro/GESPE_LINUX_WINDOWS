@@ -3,9 +3,9 @@
 
 
 # DESARROLLADORES: 
-# Huayta Fuertes Dylan Isaac  Ing en TIS/Ing CICO
-# Mamani Isla Limbert         Ing en TIS
-# Quispe Sullca Luis Fernando Ing en CICO
+### Huayta Fuertes Dylan Isaac_____Ing en TIS/Ing CICO
+### Mamani Isla Limbert____________Ing en TIS
+### Quispe Sullca Luis Fernando____Ing en CICO
 ---
 
 ## 📁 Estructura del proyecto
